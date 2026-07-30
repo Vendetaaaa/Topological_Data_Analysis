@@ -7,8 +7,10 @@ pip install numpy scipy matplotlib
 ```
 
 ## Quick-Start
+```
+cd tda-engine - Go to the engine
 python main.py - This will run the script to compute topological invariants on a noisy 2D manifold
-
+```
 ## File Tree
 ```
 tda-engine/
